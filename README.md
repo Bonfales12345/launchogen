@@ -18,6 +18,7 @@
 
 * **Apple Silicon Mac** (Apple M1 or later)
 * *Intel Macs are **NOT** supported.*
+* macOS **Sonoma** or later (macOS Tahoe or later recommended).
 
 ## 📦 Installation
 
