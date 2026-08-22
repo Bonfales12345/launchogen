@@ -43,6 +43,7 @@ private struct WindowConfigurator: NSViewRepresentable {
             window.styleMask.insert(.fullSizeContentView)
             window.isMovableByWindowBackground = true
             window.collectionBehavior.insert(.fullScreenPrimary)
+            window.tabbingMode = .disallowed
         }
         return view
     }
