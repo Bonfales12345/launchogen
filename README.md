@@ -4,7 +4,11 @@
 
   # Launchogen
 
-  **A basic Apple TV-like interface Launcher for Apps and Games.**
+  **A concise one-line description of what Launchogen does.**
+
+  <br />
+
+  <img src="appdemo.gif" alt="Launchogen Demo" width="100%">
 
 </div>
 
