@@ -4,7 +4,7 @@
 
   # Launchogen
 
-  **A concise one-line description of what Launchogen does.**
+  **A basic Apple TV-like interface Launcher for Apps and Games.**
 
   <br />
 
