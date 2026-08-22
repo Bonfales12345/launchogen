@@ -12,7 +12,7 @@
 
 ## 💻 System Requirements
 
-* **Apple Silicon Device** (M1/M2/M3/M4 or later)
+* **Apple Silicon Mac** (Apple M1 or later)
 * *Intel Macs are **NOT** supported.*
 
 ## 📦 Installation
